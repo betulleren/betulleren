@@ -11,9 +11,9 @@ Kocaeli Üniversitesi Yazılım Mühendisliği 3. Sınıf öğrencisiyim. 💻 O
 * 🎯 **Hedefim:** Temiz kod prensipleriyle uçtan uca yazılım süreçlerinde değer üretebilmek.
 
 📫 **Bana Ulaşın:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betbetuleren@gmail.com)
-[![CV Görüntüle](https://img.shields.io/badge/CV_G%C3%B6r%C3%BCnt%C3%BCle-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](BetülEREN_CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AEC6CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/)
+[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:betbetuleren@gmail.com)
+[![CV Görüntüle](https://img.shields.io/badge/CV_G%C3%B6r%C3%BCnt%C3%BCle-C8E6C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](BetülEREN_CV.pdf)
 
 ---
 
@@ -26,34 +26,34 @@ I'm a 3rd-year Software Engineering student at Kocaeli University. 💻 I am foc
 * 🎯 **Goal:** Creating value in end-to-end software processes with clean code principles.
 
 📫 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betbetuleren@gmail.com)
-[![View CV](https://img.shields.io/badge/View_CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](betulerencv_ing.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AEC6CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/)
+[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:betbetuleren@gmail.com)
+[![View CV](https://img.shields.io/badge/View_CV-C8E6C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](betulerencv_ing.pdf)
 
 ---
 
 ### 🛠️ Teknolojiler ve Araçlar / Technologies & Tools
 
 **Diller / Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-FFF2AE?style=for-the-badge&logo=python&logoColor=black)
+![C%23](https://img.shields.io/badge/c%23-C8E6C9?style=for-the-badge&logo=csharp&logoColor=black)
+![Java](https://img.shields.io/badge/java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=black)
+![C++](https://img.shields.io/badge/c++-AEC6CF?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-FFF2AE?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-AEC6CF?style=for-the-badge&logo=mysql&logoColor=black)
 
 **Frameworkler & Araçlar / Frameworks & Tools:**
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-C8E6C9?style=for-the-badge&logo=.net&logoColor=black)
+![Django](https://img.shields.io/badge/django-FFF2AE?style=for-the-badge&logo=django&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-AEC6CF?style=for-the-badge&logo=Flutter&logoColor=black)
+![ROS](https://img.shields.io/badge/ros-FFB6C1?style=for-the-badge&logo=ros&logoColor=black)
+![Git](https://img.shields.io/badge/git-C8E6C9?style=for-the-badge&logo=git&logoColor=black)
 
 ---
 
 ### 📊 GitHub İstatistiklerim / My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betulleren&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulleren&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=betulleren&show_icons=true&bg_color=FFFDF5&title_color=FF9EB5&text_color=555555&icon_color=AEC6CF&border_color=C8E6C9" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulleren&layout=compact&bg_color=FFFDF5&title_color=FF9EB5&text_color=555555&border_color=C8E6C9" alt="En Çok Kullanılan Diller" />
 </div>
