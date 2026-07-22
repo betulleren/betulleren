@@ -4,11 +4,9 @@
 
 <h2 id="-türkçe">🇹🇷 Merhaba, Ben Betül! 👋</h2>
 
-Kocaeli Üniversitesi Yazılım Mühendisliği 3. Sınıf öğrencisiyim. 💻 Otonom sistemler, görüntü işleme ve web/mobil uygulama geliştirme üzerine çalışıyorum. Sürekli öğrenmeye ve yeni teknolojileri projelerimde uygulamaya odaklıyım.
+Kocaeli Üniversitesi Yazılım Mühendisliği 4. Sınıf öğrencisiyim. 💻 Otonom sistemler, görüntü işleme ve web/mobil uygulama geliştirme üzerine çalışıyorum. Sürekli öğrenmeye ve yeni teknolojileri projelerimde uygulamaya odaklıyım.
 
-* 🚗 **İlgi Alanlarım:** Otonom Araçlar, Bilgisayarlı Görü, Sensör Füzyonu, Web Geliştirme.
-* 📚 **Şu sıralar:** ROS2, Hybrid A* algoritmaları ve React/JS ekosistemi üzerine pratik yapıyorum.
-* 🎯 **Hedefim:** Temiz kod prensipleriyle uçtan uca yazılım süreçlerinde değer üretebilmek.
+
 
 📫 **Bana Ulaşın:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AEC6CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/)
@@ -21,9 +19,7 @@ Kocaeli Üniversitesi Yazılım Mühendisliği 3. Sınıf öğrencisiyim. 💻 O
 
 I'm a 3rd-year Software Engineering student at Kocaeli University. 💻 I am focusing on autonomous systems, image processing, and web/mobile app development. I'm dedicated to continuous learning and applying new technologies in my projects.
 
-* 🚗 **Interests:** Autonomous Vehicles, Computer Vision, Sensor Fusion, Web Development.
-* 📚 **Currently learning:** Practicing ROS2, Hybrid A* algorithms, and the React/JS ecosystem.
-* 🎯 **Goal:** Creating value in end-to-end software processes with clean code principles.
+
 
 📫 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AEC6CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/)
