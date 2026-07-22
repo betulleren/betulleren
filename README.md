@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="#-türkçe">🇹🇷 Türkçe</a> • <a href="#-english">ENG English</a>
+  <a href="#-türkçe"> Türkçe</a> • <a href="#-english">ENG English</a>
 </div>
 
 <h2 id="-türkçe">🇹🇷 Merhaba, Ben Betül! 👋</h2>
@@ -15,9 +15,9 @@ Kocaeli Üniversitesi Yazılım Mühendisliği 4. Sınıf öğrencisiyim. 💻 O
 
 ---
 
-<h2 id="-english">🇬🇧 Hi, I'm Betül! 👋</h2>
+<h2 id="-english"> Hi, I'm Betül! 👋</h2>
 
-I'm a 3rd-year Software Engineering student at Kocaeli University. 💻 I am focusing on autonomous systems, image processing, and web/mobile app development. I'm dedicated to continuous learning and applying new technologies in my projects.
+I'm a 4. year Software Engineering student at Kocaeli University. 💻 I am focusing on autonomous systems, image processing, and web/mobile app development. I'm dedicated to continuous learning and applying new technologies in my projects.
 
 
 
