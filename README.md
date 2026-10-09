@@ -1,55 +1,57 @@
 <div align="right">
-  <a href="#-türkçe"> Türkçe</a> • <a href="#-english">ENG English</a>
+  <a href="#türkçe">Türkçe</a> • <a href="#english">English</a>
 </div>
 
-<h2 id="-türkçe">🇹🇷 Merhaba, Ben Betül! 👋</h2>
+<h2 id="türkçe">Betül Eren</h2>
+<p><em>Software Engineering Student at Kocaeli University</em></p>
 
-Kocaeli Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim. Otonom sistemler, görüntü işleme ve yapay zeka destekli simülasyon/robotik projeleri (TEKNOFEST & TÜBİTAK) geliştiriyorum. Karmaşık mühendislik problemlerine yenilikçi çözümler üretmeyi ve modern teknolojileri projelerime entegre etmeyi hedefliyorum.
+Focused on autonomous systems, computer vision, and AI-driven simulation/robotics. Dedicated to designing robust software architectures and integrating modern engineering methodologies into real-world applications.
 
-<br>
-
-📫 **İletişim & Portfolyo / Contact:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AEC6CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/)
-[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:betbetuleren@gmail.com)
-[![CV Görüntüle](https://img.shields.io/badge/CV_G%C3%B6r%C3%BCnt%C3%BCle-C8E6C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](BetülEREN_CV.pdf)
-
----
-
-<h2 id="-english"> Hi, I'm Betül! 👋</h2>
-
-I'm a 4th-year Software Engineering student at Kocaeli University. I focus on autonomous systems, computer vision, and AI-driven simulation/robotics projects (TEKNOFEST & TÜBİTAK). I am dedicated to building innovative software solutions and integrating modern technologies into real-world applications.
-
-<br>
-
-📫 **Contact & Portfolio:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AEC6CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/)
-[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black)](mailto:betbetuleren@gmail.com)
-[![View CV](https://img.shields.io/badge/View_CV-C8E6C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](betulerencv_ing.pdf)
+<p>
+  <a href="https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:betbetuleren@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="BetülEREN_CV.pdf"><img src="https://img.shields.io/badge/CV-Türkçe-4CAF50?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV TR"></a>
+  <a href="betulerencv_ing.pdf"><img src="https://img.shields.io/badge/CV-English-2196F3?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV EN"></a>
+</p>
 
 ---
 
-### 🚀 Öne Çıkan Alanlar / Core Focus Areas
+<h2 id="english">Betül Eren</h2>
+<p><em>Software Engineering Student at Kocaeli University</em></p>
 
-* **Otonom Sistemler & Robotik:** ROS 2, LiDAR, IMU, GPS, Yol Planlama ve Sensör Füzyonu (TAISAT İKA / İHA projeleri)
-* **Görüntü İşleme & Simülasyon:** OpenCV, Python, Blender tabanlı donanımsız simülasyon ortamları (TÜBİTAK 2209-A & TEKNOFEST)
-* **Web & Mobil Geliştirme:** Django (PatiGo platformu), .NET Core Web API, Flutter, Kotlin
+Focused on autonomous systems, computer vision, and AI-driven simulation/robotics. Dedicated to designing robust software architectures and integrating modern engineering methodologies into real-world applications.
+
+<p>
+  <a href="https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:betbetuleren@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="BetülEREN_CV.pdf"><img src="https://img.shields.io/badge/CV-Türkçe-4CAF50?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV TR"></a>
+  <a href="betulerencv_ing.pdf"><img src="https://img.shields.io/badge/CV-English-2196F3?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV EN"></a>
+</p>
 
 ---
 
-### 🛠️ Teknolojiler ve Araçlar / Tech Stack
+### Core Competencies & Focus Areas
 
-| Kategori | Teknolojiler |
+* **Autonomous Systems & Robotics:** ROS 2, LiDAR, IMU, GPS, Sensor Fusion, Path Planning (TAISAT UGVs/UAVs).
+* **Computer Vision & Simulation:** OpenCV, Python, Blender-based hardware-independent simulation environments (TÜBİTAK & TEKNOFEST).
+* **Software Development:** Django, .NET Core Web API, Flutter, Kotlin, Relational Databases.
+
+---
+
+### Technical Stack
+
+| Category | Technologies |
 | :--- | :--- |
-| **Diller / Languages** | ![Python](https://img.shields.io/badge/python-FFF2AE?style=flat-square&logo=python&logoColor=black) ![C#](https://img.shields.io/badge/c%23-C8E6C9?style=flat-square&logo=csharp&logoColor=black) ![C++](https://img.shields.io/badge/c++-AEC6CF?style=flat-square&logo=c%2B%2B&logoColor=black) ![Java](https://img.shields.io/badge/java-FFB6C1?style=flat-square&logo=openjdk&logoColor=black) ![Dart](https://img.shields.io/badge/dart-AEC6CF?style=flat-square&logo=dart&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-FFF2AE?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/sql-C8E6C9?style=flat-square&logo=mysql&logoColor=black) |
-| **Frameworks & Tools** | ![ROS 2](https://img.shields.io/badge/ros-FFB6C1?style=flat-square&logo=ros&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-FFF2AE?style=flat-square&logo=opencv&logoColor=black) ![Django](https://img.shields.io/badge/django-C8E6C9?style=flat-square&logo=django&logoColor=black) ![.NET](https://img.shields.io/badge/.NET-AEC6CF?style=flat-square&logo=.net&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-FFB6C1?style=flat-square&logo=Flutter&logoColor=black) ![Blender](https://img.shields.io/badge/blender-FFF2AE?style=flat-square&logo=blender&logoColor=black) |
-| **Environment & Versioning** | ![Git](https://img.shields.io/badge/git-C8E6C9?style=flat-square&logo=git&logoColor=black) ![Ubuntu](https://img.shields.io/badge/ubuntu-AEC6CF?style=flat-square&logo=ubuntu&logoColor=black) |
+| **Languages** | Python, C#, C++, Java, Dart, JavaScript, SQL |
+| **Frameworks & Tools** | ROS 2, OpenCV, Django, .NET, Flutter, Blender |
+| **Environments** | Linux (Ubuntu), Git, Version Control Systems |
 
 ---
 
-### 🐍 GitHub Katkı Yılanı / Contribution Snake
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/betulleren/betulleren/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/betulleren/betulleren/output/github-github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/betulleren/betulleren/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/betulleren/betulleren/output/github-contribution-grid-snake.svg">
 </picture>
