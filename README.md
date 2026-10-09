@@ -32,9 +32,9 @@ Focused on autonomous systems, computer vision, and AI-driven simulation/robotic
 
 ### Core Competencies & Focus Areas
 
-* **Autonomous Systems & Robotics:** ROS 2, LiDAR, IMU, GPS, Sensor Fusion, Path Planning (TAISAT UGVs/UAVs).
-* **Computer Vision & Simulation:** OpenCV, Python, Blender-based hardware-independent simulation environments (TÜBİTAK & TEKNOFEST).
-* **Software Development:** Django, .NET Core Web API, Flutter, Kotlin, Relational Databases.
+- **Autonomous Systems & Robotics:** ROS 2, LiDAR, IMU, GPS, Sensor Fusion, Path Planning (TAISAT UGVs/UAVs).
+- **Computer Vision & Simulation:** OpenCV, Python, Blender-based hardware-independent simulation environments (TÜBİTAK & TEKNOFEST).
+- **Software Development:** Django, .NET Core Web API, Flutter, Kotlin, Relational Databases.
 
 ---
 
