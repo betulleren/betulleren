@@ -2,12 +2,7 @@
   <a href="#türkçe">Türkçe</a> • <a href="#english">English</a>
 </div>
 
-<h2 id="türkçe">Betül Eren</h2>
-<p><em>Software Engineering Student at Kocaeli University</em></p>
 
-Focused on autonomous systems, computer vision, and AI-driven simulation/robotics. Dedicated to designing robust software architectures and integrating modern engineering methodologies into real-world applications.
-
-<p>
   <a href="https://www.linkedin.com/in/bet%C3%BCl-eren-575023296/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:betbetuleren@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="BetülEREN_CV.pdf"><img src="https://img.shields.io/badge/CV-Türkçe-4CAF50?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV TR"></a>
